@@ -1,0 +1,15 @@
+.navbar {
+    border: 1px solid white;
+    width:400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    color: rgba(228, 199, 250, 0.78);
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:active {
+    color: #b60033;
+}

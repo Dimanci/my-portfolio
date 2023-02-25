@@ -1,0 +1,20 @@
+.project {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.projectLogo img {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    border-radius: 10px;
+
+}
+
+.projectInfo {
+    border: 1px solid;
+    text-align: center;
+}
