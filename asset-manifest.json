@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.e583b898.css",
+    "main.js": "/my-portfolio/static/js/main.c726791e.js",
+    "static/js/787.883d64eb.chunk.js": "/my-portfolio/static/js/787.883d64eb.chunk.js",
+    "static/media/HarryPotter21.png": "/my-portfolio/static/media/HarryPotter21.a19f56daafc9cb0eab83.png",
+    "static/media/HarryPotter3.jpg": "/my-portfolio/static/media/HarryPotter3.b757ed6566f90f4b0206.jpg",
+    "static/media/HarryPotter.jpg": "/my-portfolio/static/media/HarryPotter.71f734bf604ab629fa76.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.e583b898.css.map": "/my-portfolio/static/css/main.e583b898.css.map",
+    "main.c726791e.js.map": "/my-portfolio/static/js/main.c726791e.js.map",
+    "787.883d64eb.chunk.js.map": "/my-portfolio/static/js/787.883d64eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e583b898.css",
+    "static/js/main.c726791e.js"
+  ]
+}
